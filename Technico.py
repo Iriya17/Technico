@@ -1,1 +1,1 @@
-print("Greetings from Technico!")
+print("Now updated directly from GitHub!")
